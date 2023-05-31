@@ -4,6 +4,7 @@
 To perform PCA matrix summation with a 2D grid and 2D blocks and adapting it to integer matrix addition.
 
 ## Procedure:
+
 1.Include the required files and library.
 
 2.Declare a function sumMatrixOnHost , to perform matrix summation on the host side . Declare three matrix A , B , C . Store the resultant matrix in C.
@@ -20,7 +21,7 @@ To perform PCA matrix summation with a 2D grid and 2D blocks and adapting it to 
 
 8.Save and Run the Program.
 
-##Program:
+## Program:
 ```
 Developed By: VALASAREDDY PALLAVI
 Reg.No:212221240059
