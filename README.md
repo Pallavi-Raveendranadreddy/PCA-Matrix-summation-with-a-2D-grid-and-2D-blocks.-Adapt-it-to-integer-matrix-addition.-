@@ -25,7 +25,7 @@ To perform PCA matrix summation with a 2D grid and 2D blocks and adapting it to 
 Developed By: VALASAREDDY PALLAVI
 Reg.No:212221240059
 ```
-
+```
 #include "common.h" 
 #include <cuda_runtime.h>
 #include <stdio.h>
